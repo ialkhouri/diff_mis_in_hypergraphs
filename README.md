@@ -26,7 +26,6 @@ For our algorihtm, we used the following hyper-parameters:
 
 | $n$     | $\gamma$ | $\beta$ | $\alpha$ | $\eta$ |
 |----------|-----|-|-|-|
-| 40    | 00  | 
-| 60      | 00 | 
-| 80    | 00  | 
-| 100  | 00  | 
+| 60      | 2  | 0.5 | 0.15 | 5 | 
+| 80    | 2  | 0.5 | 0.15 | 5 | 
+| 100  | 5  | 0.5 | 0.15 | 5 | 
